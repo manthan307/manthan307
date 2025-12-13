@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm manthan, first year cse(ai&ml) student in india.
+I build things which makes me curious.
+My main tech stack is react,typescript and golang.
+
 <!--
 **manthan307/manthan307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
