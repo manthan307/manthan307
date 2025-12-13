@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm manthan, first year cse(ai&ml) student in india.
-I build things which makes me curious.
+I'm manthan, first year cse(ai&ml) student in india.  
+I build things which makes me curious.  
 My main tech stack is react,typescript and golang.
 
 <!--
