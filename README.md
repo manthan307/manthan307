@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there ![wave emoji](https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif)
+
+<!-- <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="" alt="👋" width="32" height="32">
+</picture> -->
 
 I'm manthan, first year cse(ai&ml) student in india.  
 I build things which makes me curious.  
